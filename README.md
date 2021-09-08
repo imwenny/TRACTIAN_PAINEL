@@ -2,12 +2,13 @@
 
 Projeto foi feito com a linguagem javascript utilizando o framework React.js
 
-## Para visualizar o projeto, pode ser visto online em:
-Ou fazendo download do projeto e no cmd entrar onde está o projeto e utilizar o comando
+## Instruções:
+Fazer download do projeto, localizar onde esta o arquivo e no cmd entrar onde está o projeto, utilizar o comando:<br>
  `npm install`
- e logo após,
- `npm start`
+ <br>e logo após,
+ <br>`npm start`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If
+**Notas:<br>
+[1] Vai abrir um endereço http://localhost:3000/TRACTIAN_PAINEL delete as _últimas palavras_ 'TRACTIAN_PAINEL'**
+<br>
+**[2] Mais indicado para o sistema operacional do Windows**<br>
