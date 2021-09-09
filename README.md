@@ -10,6 +10,4 @@ Fazer download do projeto, localizar onde esta o arquivo e no cmd entrar onde es
  <br>`npm start`
 
 **Notas:<br>
-[1] Vai abrir um endereço http://localhost:3000/TRACTIAN_PAINEL delete as _últimas palavras_ 'TRACTIAN_PAINEL'**
-<br>
-**[2] Mais indicado para o sistema operacional do Windows**<br>
+[1] Mais indicado para o sistema operacional do Windows**
